@@ -10,6 +10,7 @@ public class RestapiTest {
 		System.out.println("OnePlus");
 		System.out.println("Samsung");
 		System.out.println("Apple");
+		System.out.println("LG");
 	}
 	
 	@Test
