@@ -17,4 +17,8 @@ public class RestapiTest {
 	public void laptop() {
 		System.out.println("laptop");
 	}
+	@Test
+	public void laptop1() {
+		System.out.println("lapto1p");
+	}
 }
