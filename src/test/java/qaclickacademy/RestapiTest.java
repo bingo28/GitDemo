@@ -6,7 +6,7 @@ public class RestapiTest {
 
 	@Test
 	public void mobile() {
-		System.out.println("mobile");
+		System.out.println("mobile2");
 		System.out.println("OnePlus");
 		System.out.println("Samsung");
 		System.out.println("Apple");
